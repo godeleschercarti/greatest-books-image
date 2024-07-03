@@ -1,0 +1,101 @@
+,name,author,image
+0,The Great Gatsby,F. Scott Fitzgerald,great-gatsby.jpg
+1,Ulysses,James Joyce,ulysses.jpg
+2,The Catcher in the Rye,J. D. Salinger,catcher-in-the-rye.jpg
+3,Nineteen Eighty Four,George Orwell,nineteen-eighty-four.jpg
+4,In Search of Lost Time,Marcel Proust,in-search-of-lost-time.jpg
+5,One Hundred Years of Solitude,Gabriel García Márquez,one-hundred-years-of-solitude.jpg
+6,Lolita,Vladimir Nabokov,lolita.jpg
+7,Moby-Dick,Herman Melville,moby-dick.jpg
+8,Pride and Prejudice,Jane Austen,pride-and-prejudice.jpg
+9,Wuthering Heights,Emily Brontë,wuthering-heights.jpg
+10,Don Quixote,Miguel de Cervantes,don-quixote.jpg
+11,To Kill a Mockingbird,Harper Lee,to-kill-a-mockingbird.jpg
+12,Crime and Punishment,Fyodor Dostoevsky,crime-and-punishment.jpg
+13,Anna Karenina,Leo Tolstoy,anna-karenina.jpg
+14,The Grapes of Wrath,John Steinbeck,grapes-of-wrath.jpg
+15,War and Peace,Leo Tolstoy,war-and-peace.jpg
+16,Madame Bovary,Gustave Flaubert,madame-bovary.jpg
+17,The Lord of the Rings,J. R. R. Tolkien,lord-of-the-rings.jpg
+18,The Sound and the Fury,William Faulkner,sound-and-the-fury.jpg
+19,Adventures of Huckleberry Finn,Mark Twain,adventures-of-huckleberry-finn.jpg
+20,Middlemarch,George Eliot,middlemarch.jpg
+21,Alice's Adventures in Wonderland,Lewis Carroll,alices-adventures-in-wonderland.jpg
+22,Jane Eyre,Charlotte Brontë,jane-eyre.jpg
+23,Heart of Darkness,Joseph Conrad,heart-of-darkness.jpg
+24,The Divine Comedy,Dante Alighieri,divine-comedy.jpg
+25,Catch-22,Joseph Heller,catch-22.jpg
+26,The Odyssey,Homer,odyssey.jpg
+27,Invisible Man,Ralph Ellison,invisible-man.jpg
+28,The Stranger,Albert Camus,stranger.jpg
+29,The Brothers Karamazov,Fyodor Dostoevsky,brothers-karamazov.jpg
+30,Frankenstein,Mary Shelley,frankenstein.jpg
+31,Great Expectations,Charles Dickens,great-expectations.jpg
+32,The Bible,Unknown,bible.jpg
+33,To the Lighthouse,Virginia Woolf,to-the-lighthouse.jpg
+34,Mrs. Dalloway,Virginia Woolf,mrs-dalloway.jpg
+35,The Iliad,Homer,iliad.jpg
+36,The Trial,Franz Kafka,trial.jpg
+37,On the Road,Jack Kerouac,on-the-road.jpg
+38,Brave New World,Aldous Huxley,brave-new-world.jpg
+39,The Magic Mountain,Thomas Mann,magic-mountain.jpg
+40,Gulliver's Travels,Jonathan Swift,gullivers-travels.jpg
+41,David Copperfield,Charles Dickens,david-copperfield.jpg
+42,Les Misérables,Victor Hugo,les-misérables.jpg
+43,Their Eyes Were Watching God,Zora Neale Hurston,their-eyes-were-watching-god.jpg
+44,The Sun Also Rises,Ernest Hemingway,sun-also-rises.jpg
+45,Gone With the Wind,Margaret Mitchell,gone-with-the-wind.jpg
+46,Beloved,Toni Morrison,beloved.jpg
+47,The Red and the Black,Stendhal,red-and-the-black.jpg
+48,A Passage to India,E. M. Forster,a-passage-to-india.jpg
+49,Things Fall Apart,Chinua Achebe,things-fall-apart.jpg
+50,"Absalom, Absalom!",William Faulkner,absalom-absalom.jpg
+51,The Scarlet Letter,Nathaniel Hawthorne,scarlet-letter.jpg
+52,Lord of the Flies,William Golding,lord-of-the-flies.jpg
+53,The Master and Margarita,Mikhail Bulgakov,master-and-margarita.jpg
+54,Rebecca,Daphne du Maurier,rebecca.jpg
+55,"The Life and Opinions of Tristram Shandy, Gentleman",Laurence Sterne,life-and-opinions-of-tristram-shandy-gentleman.jpg
+56,The Diary of a Young Girl,Anne Frank,diary-of-a-young-girl.jpg
+57,Midnight's Children,Salman Rushdie,midnights-children.jpg
+58,Slaughterhouse-Five,Kurt Vonnegut,slaughterhouse-five.jpg
+59,The Portrait of a Lady,Henry James,portrait-of-a-lady.jpg
+60,Candide,Voltaire,candide.jpg
+61,Little Women,Louisa May Alcott,little-women.jpg
+62,The Little Prince,Antoine de Saint-Exupéry,little-prince.jpg
+63,As I Lay Dying,William Faulkner,as-i-lay-dying.jpg
+64,Silent Spring,Rachel Carson,silent-spring.jpg
+65,Native Son,Richard Wright,native-son.jpg
+66,One Thousand and One Nights,Unknown,one-thousand-and-one-nights.jpg
+67,A Portrait of the Artist as a Young Man,James Joyce,a-portrait-of-the-artist-as-a-young-man.jpg
+68,Walden,Henry David Thoreau,walden.jpg
+69,The Aeneid,Virgil,aeneid.jpg
+70,Vanity Fair,William Makepeace Thackeray,vanity-fair.jpg
+71,The Color Purple,Alice Walker,color-purple.jpg
+72,Oedipus the King,Sophocles,oedipus-the-king.jpg
+73,Hamlet,William Shakespeare,hamlet.jpg
+74,Animal Farm,George Orwell,animal-farm.jpg
+75,Robinson Crusoe,Daniel Defoe,robinson-crusoe.jpg
+76,For Whom the Bell Tolls,Ernest Hemingway,for-whom-the-bell-tolls.jpg
+77,Faust,Johann Wolfgang von Goethe,faust.jpg
+78,The Prince,Niccolo Machiavelli,prince.jpg
+79,The Age of Innocence,Edith Wharton,age-of-innocence.jpg
+80,Tess of the d'Urbervilles,Thomas Hardy,tess-of-the-durbervilles.jpg
+81,The Bell Jar,Sylvia Plath,bell-jar.jpg
+82,Leaves of Grass,Walt Whitman,leaves-of-grass.jpg
+83,Dracula,Bram Stoker,dracula.jpg
+84,The Old Man and the Sea,Ernest Hemingway,old-man-and-the-sea.jpg
+85,Tom Jones,Henry Fielding,tom-jones.jpg
+86,The Golden Notebook,Doris May Lessing,golden-notebook.jpg
+87,Emma,Jane Austen,emma.jpg
+88,The Picture of Dorian Gray,Oscar Wilde,picture-of-dorian-gray.jpg
+89,The Big Sleep,Raymond Chandler,big-sleep.jpg
+90,In Cold Blood,Truman Capote,in-cold-blood.jpg
+91,The Canterbury Tales,Geoffrey Chaucer,canterbury-tales.jpg
+92,Fictions,Jorge Luis Borges,fictions.jpg
+93,Paradise Lost,John Milton,paradise-lost.jpg
+94,Charlotte's Web,E. B. White,charlottes-web.jpg
+95,Treasure Island,Robert Louis Stevenson,treasure-island.jpg
+96,Fahrenheit 451,Ray Bradbury,fahrenheit-451.jpg
+97,All Quiet on the Western Front,Erich Maria Remarque,all-quiet-on-the-western-front.jpg
+98,Essays,Michel de Montaigne,essays.jpg
+99,Waiting for Godot,Samuel Beckett,waiting-for-godot.jpg
